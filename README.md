@@ -18,7 +18,16 @@ This project features a modern landing page that presents restaurant website dev
 
 ## 🖥️ Landing Page Preview
 
-![Kamatech Landing Page](images/kamatech-landing-page.png)
+![Kamatech Landing Page](<./full.png>)
+![Kamatech](<./satu.png>)
+![Kamatech](<./dua.png>)
+![Kamatech](<./tiga.png>)
+![Kamatech](<./empat.png>)
+![Kamatech](<./lima.png>)
+![Kamatech](<./enam.png>)
+![Kamatech](<./tujuh.png>)
+![Kamatech](<./delapan.png>)
+![Kamatech](<./sembilan.png>)
 
 ## 📌 Website Sections
 
